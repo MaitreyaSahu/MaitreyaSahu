@@ -1,5 +1,8 @@
 ### Hi there 😄
 
+<iframe class="project-thumbnail"  src="https://maitreyasahu.github.io/clock2/widget/" frameborder="0">
+                        </iframe>
+
 <!--
 **MaitreyaSahu/MaitreyaSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
