@@ -1,4 +1,5 @@
-### Hi there 😄
+### [Maitreya Sahu](https://github.com/MaitreyaSahu)🔗
+A passionate web developer with 4.5 years of experience in the development and maintenance of web applications using **.NET Frameworks**. Experienced in **ASP.NET MVC, Web Forms,** and **Web API** with a strong understanding of modern web development using **HTML5, CSS3, ES6,** and JavaScript frameworks like **Angular and ReactJS.**
 
 
 <!--
