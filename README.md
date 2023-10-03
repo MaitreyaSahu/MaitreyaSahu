@@ -1,6 +1,14 @@
-### [Maitreya Sahu](https://github.com/MaitreyaSahu)🔗
-A passionate web developer with 4.5 years of experience in the development and maintenance of web applications using **.NET Frameworks**. Experienced in **ASP.NET MVC, Web Forms,** and **Web API** with a strong understanding of modern web development using **HTML5, CSS3, ES6,** and JavaScript frameworks like **Angular and ReactJS.**
+[![An image of @maitreya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maitreya)](https://holopin.io/@maitreya)
 
+### [Maitreya Sahu](https://github.com/MaitreyaSahu)🔗
+
+- **Professional Experience**: I bring over 6.5 years of expertise to web application development using .Net.
+- **Technical Skills**:
+  - I am skilled in C#, .Net Core, ASP.Net Web API, and ASP.Net MVC.
+  - Proficiency extends to modern web development technologies like HTML5, CSS3, and JavaScript.
+  - I have hands-on experience with popular frameworks such as React and Angular.
+  - My portfolio includes the development of responsive single-page web applications.
+  - I am well-versed in utilizing tools and technologies such as Material UI, Bootstrap, jQuery, Git, and Azure DevOps.
 
 <!--
 **MaitreyaSahu/MaitreyaSahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
